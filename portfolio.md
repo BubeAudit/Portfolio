@@ -3,7 +3,7 @@
 
 ## Code4rena Audits:
 |Contest	    |Date	      |Results            |
-|-------------|-----------|-------------------|
+|:-----------:|:---------:|:-----------------:|
 |veRWA        |07.08.2023 |QA report, Grade: B|
 |Ondo Finance |01.09.2023 |Analysis, Grade: B |
 |Brahma       |13.10.2023 |Analysis, Grade: A |
@@ -12,7 +12,7 @@
 
 ## CodeHawks Audits:
 |Contest	    |Date	      |Results                     |
-|-------------|-----------|----------------------------|
+|:-----------:|:---------:|:--------------------------:|
 |Beedle       |24.07.2023 | 1 Low                      |
 |Sparkn       |21.08.2023 | 1 Low                      |
 |Ditto        |08.09.2023 | 1 Low                      |
@@ -22,7 +22,7 @@
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
-|--------------|-----------|---------------------------|
+|:------------:|:---------:|:-------------------------:|
 |PasswordStore |18.10.2023 | 2 Highs                   |
 |Puppy Raffle  |25.10.2023 | 4 Highs, 2 Mediums        |
 |Boss Bridge   |09.11.2023 | 4 Highs                   |
