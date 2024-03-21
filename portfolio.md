@@ -16,7 +16,7 @@
 |Beedle       |24.07.2023 | 1 Low                      |
 |Sparkn       |21.08.2023 | 1 Low                      |
 |Ditto        |08.09.2023 | 1 Low                      |
-|The standart |27.12.2023 | 1 Medium, 2 Lows (1 Unique)|
+|The Standard |27.12.2023 | 1 Medium, 2 Lows (1 Unique)|
 |MorpheusAI   |30.01.2024 | 1 Low                      |
 |             |**Total:** |**1 Medium, 6 Lows**        |
 
