@@ -5,16 +5,16 @@
 |Contest	    |Date	      |Results                     |
 |:-----------:|:---------:|:--------------------------:|
 |Beedle       |24.07.2023 | 1 Low                      |
-|Sparkn       |21.08.2023 | 1 Low                      |
-|Ditto        |08.09.2023 | 1 Low                      |
+|Sparkn       |21.08.2023 | [1 Low](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Sparkn-.md)                   |
+|Ditto        |08.09.2023 | [1 Low](https://github.com/BubeAudit/Portfolio/blob/main/Findings-DittoETH.md)                  |
 |The Standard |27.12.2023 | [1 Medium, 2 Lows (1 Unique)](https://github.com/BubeAudit/Portfolio/blob/main/Findings-The-Standard.md)|
-|MorpheusAI   |30.01.2024 | 1 Low                      |
-|Beanstalk Part 1 |26.02.2024 | 1 Medium (Selected for report)|
-|Sablier      |10.05.2024 | 1 Medium                   |
-|Beanstalk The Finale |30.05.2024 | 1 Medium, 2 Lows    |
-|Zaros Part 1 |17.07.2024 | 1 High, 1 Medium           |
-|Tadle        |05.08.2024 | 1 Medium, 2 Lows           |
-|Liquid Staking |30.09.2024 | 1 Medium                 |
+|MorpheusAI   |30.01.2024 | [1 Low](https://github.com/BubeAudit/Portfolio/blob/main/Findings-MorpheusAI.md)                      |
+|Beanstalk Part 1 |26.02.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Beanstalk-Part-1.md) (Selected for report)|
+|Sablier      |10.05.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Sablier.md) |
+|Beanstalk The Finale |30.05.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Beanstalk_-The-Finale.md) |
+|Zaros Part 1 |17.07.2024 | [1 High, 1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Zaros-Part-1.md#M-01)|
+|Tadle        |05.08.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Tadle.md#L-02)|
+|Liquid Staking |30.09.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Liquid-Staking.md)  |
 |Zaros Part 2 |20.01.2025 | Judging Phase              |
 |             |**Total:** |**12 Contests, 1 High, 7 Medium, 10 Lows**        |
 |             |Link to CodeHawks Profile: | https://profiles.cyfrin.io/u/bube |
