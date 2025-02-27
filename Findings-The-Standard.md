@@ -1,4 +1,4 @@
-# The Standard - My Findings Report
+# The Standard
 
 # Table of contents
 
