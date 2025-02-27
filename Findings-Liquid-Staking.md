@@ -1,5 +1,6 @@
 # Liquid Staking 
 
+# Table of contents
 - ## Medium Risk Findings
     - ### [M-01. Denial of Service in `WithdrawalPool::getBatchIds` and `WithdrawalPool::getFinalizedWithdrawalIdsByOwner` due to `withdrawalBatches` array](#M-01)
 
