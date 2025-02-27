@@ -7,7 +7,7 @@
 |Beedle       |24.07.2023 | 1 Low                      |
 |Sparkn       |21.08.2023 | 1 Low                      |
 |Ditto        |08.09.2023 | 1 Low                      |
-|The Standard |27.12.2023 | 1 Medium, 2 Lows (1 Unique)|
+|The Standard |27.12.2023 | [1 Medium, 2 Lows (1 Unique)](https://github.com/BubeAudit/Portfolio/blob/main/Findings-The-Standard.md)|
 |MorpheusAI   |30.01.2024 | 1 Low                      |
 |Beanstalk Part 1 |26.02.2024 | 1 Medium (Selected for report)|
 |Sablier      |10.05.2024 | 1 Medium                   |
