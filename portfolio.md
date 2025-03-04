@@ -1,4 +1,7 @@
-
+# Table of contents
+ - ## [Findings from Competitive Audits](https://github.com/BubeAudit/Portfolio/edit/main/portfolio.md#findings-from-competitive-audits-1)
+ - ## [Judging and Development](https://github.com/BubeAudit/Portfolio/edit/main/portfolio.md#judging-and-development-1)
+   
 # Findings from Competitive Audits
 
 ## CodeHawks Audits:
@@ -15,7 +18,7 @@
 |Zaros Part 1 |17.07.2024 | [1 High, 1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Zaros-Part-1.md#M-01)|
 |Tadle        |05.08.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Tadle.md#L-02)|
 |Liquid Staking |30.09.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Liquid-Staking.md)  |
-|Zaros Part 2 |20.01.2025 | Judging Phase              |
+|Zaros Part 2 |20.01.2025 | Preliminary results: 1 High, 1 Medium, 3 Lows |
 |             |**Total:** |**12 Contests, 1 High, 7 Medium, 10 Lows**        |
 |             |Link to CodeHawks Profile: | https://profiles.cyfrin.io/u/bube |
 
