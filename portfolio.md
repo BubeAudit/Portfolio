@@ -1,6 +1,6 @@
 # Table of contents
- - ## [Findings from Competitive Audits](https://github.com/BubeAudit/Portfolio/edit/main/portfolio.md#findings-from-competitive-audits-1)
- - ## [Judging and Development](https://github.com/BubeAudit/Portfolio/edit/main/portfolio.md#judging-and-development-1)
+ - ## Findings from Competitive Audits
+ - ## Judging and Development
    
 # Findings from Competitive Audits
 
