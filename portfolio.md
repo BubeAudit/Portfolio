@@ -18,7 +18,7 @@
 |Zaros Part 1 |17.07.2024 | [1 High, 1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Zaros-Part-1.md#M-01)|
 |Tadle        |05.08.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Tadle.md#L-02)|
 |Liquid Staking |30.09.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Liquid-Staking.md)  |
-|Zaros Part 2 |20.01.2025 | 1 High, 1 Medium, 3 Lows |
+|Zaros Part 2 |20.01.2025 | [1 High](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/612), [1 Medium](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/138), 3 Lows |
 |             |**Total:** |**12 Contests, 2 High, 8 Medium, 13 Lows**        |
 |             |Link to CodeHawks Profile: | https://profiles.cyfrin.io/u/bube |
 
@@ -30,20 +30,21 @@
 |Brahma       |13.10.2023 |Analysis, Grade: A |
 |NextGen      |30.10.2023 |1 High             |
 |AI Arena     |09.02.2024 |QA report, Grade: B|
-|DittoETH     |15.03.2024 |1 Medium (Selected for report), QA Report, Grade:B |
-|             |**Total:** |**6 Contests, 1 High, 1 Medium, 5 Lows** |
+|DittoETH     |15.03.2024 |[1 Medium](https://github.com/code-423n4/2024-03-dittoeth-findings/issues/221) (Selected for report), QA Report, Grade:B |
+|Nudge.xyz    |17.03.2025 | [1 Low] (https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13)
+|             |**Total:** |**7 Contests, 1 High, 1 Medium, 6 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
 ## Sherlock Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
-|Ethos Network Financial Contracts|29.11.2024 |1 High|
-|Plaza Finance|14.01.2025 |1 High             |
-|Crestal Network| 11.03.2025| 1 High          |
+|Ethos Network Financial Contracts|29.11.2024 |[1 High](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/387)|
+|Plaza Finance|14.01.2025 |[1 High](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/787)             |
+|Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
 |             |**Total:** |**3 Contests, 3 Highs**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
-**Toatal:** 20 Public Competitive Contests, 4 Highs, 8 Mediums, 17 Lows
+**Total:** 22 Public Competitive Contests, 6 Highs, 9 Mediums, 19 Lows
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
