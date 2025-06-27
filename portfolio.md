@@ -44,7 +44,7 @@
 |             |**Total:** |**3 Contests, 3 Highs**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
-**Total:** 22 Public Competitive Contests, 6 Highs, 9 Mediums, 19 Lows
+**Total: 22 Public Competitive Contests, 6 Highs, 9 Mediums, 19 Lows**
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
