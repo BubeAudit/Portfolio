@@ -41,10 +41,11 @@
 |Ethos Network Financial Contracts|29.11.2024 |[1 High](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/387)|
 |Plaza Finance|14.01.2025 |[1 High](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/787)             |
 |Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
-|             |**Total:** |**3 Contests, 3 Highs**        |
+|DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
+|             |**Total:** |**4 Contests, 3 Highs, 1 Medium**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
-**Total: 22 Public Competitive Contests, 6 Highs, 9 Mediums, 19 Lows**
+**Total: 23 Public Competitive Contests, 6 Highs, 10 Mediums, 19 Lows**
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
