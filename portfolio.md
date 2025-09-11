@@ -42,12 +42,12 @@
 |Plaza Finance|14.01.2025 |[1 High](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/787)             |
 |Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
 |DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
-|Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue, prelim results) |
-|Malda | 24.07.2025 | soon results, potential 3 Mediums, in the Judging phase |
-|             |**Total:** |**5 Contests, 3 Highs, 2 Medium**        |
+|Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue) |
+|Malda | 24.07.2025 | 3 Mediums (prelim results) |
+|             |**Total:** |**5 Contests, 3 Highs, 5 Mediums**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
-**Total: 23 Public Competitive Contests, 6 Highs, 10 Mediums, 19 Lows**
+**Total: 23 Public Competitive Contests, 6 Highs, 14 Mediums, 19 Lows**
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
@@ -94,6 +94,8 @@
 |Aave DIVA Wrapper protocol  |
 |First Flight #36: RustFund  |
 |First Flight #40: Weather Witness |
+|First Flight #46: Secret Vault on Aptos |
+|First Flight Aptos Pizza Drop |
 
 ## CodeHawks First Flights Development:
 |Contest	     |Programming Language       |Link                    |               
@@ -103,3 +105,7 @@
 
 **Note**: These protocols are intentionally implemented with vulnerabilities. They are intended to be First Flights at CodeHawks.
 
+## Personal Projects:
+|Project Name     |Programming Language       |Link                    |
+|:------------:|:---------:|:-------------------------:|
+|TicketMarketplace Rust Project | Rust| https://github.com/BubeAudit/TicketMarketplace-Rust-Project |
