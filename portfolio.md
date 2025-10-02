@@ -43,7 +43,7 @@
 |Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
 |DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
 |Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue) |
-|Malda | 24.07.2025 | 3 Mediums (prelim results) |
+|Malda | 24.07.2025 | 3 Mediums |
 |             |**Total:** |**5 Contests, 3 Highs, 5 Mediums**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
