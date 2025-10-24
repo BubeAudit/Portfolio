@@ -4,6 +4,18 @@
    
 # Findings from Competitive Audits
 
+## Sherlock Audits:
+|Contest	    |Date	      |Results            |
+|:-----------:|:---------:|:-----------------:|
+|Ethos Network Financial Contracts|29.11.2024 |[1 High](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/387)|
+|Plaza Finance|14.01.2025 |[1 High](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/787)             |
+|Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
+|DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
+|Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue) |
+|Malda | 24.07.2025 | 3 Mediums |
+|             |**Total:** |**5 Contests, 3 Highs, 5 Mediums**        |
+|             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
+
 ## CodeHawks Audits:
 |Contest	    |Date	      |Results                     |
 |:-----------:|:---------:|:--------------------------:|
@@ -34,18 +46,6 @@
 |Nudge.xyz    |17.03.2025 | [1 Low](https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13)
 |             |**Total:** |**7 Contests, 1 High, 1 Medium, 6 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
-
-## Sherlock Audits:
-|Contest	    |Date	      |Results            |
-|:-----------:|:---------:|:-----------------:|
-|Ethos Network Financial Contracts|29.11.2024 |[1 High](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/387)|
-|Plaza Finance|14.01.2025 |[1 High](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/787)             |
-|Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
-|DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
-|Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue) |
-|Malda | 24.07.2025 | 3 Mediums |
-|             |**Total:** |**5 Contests, 3 Highs, 5 Mediums**        |
-|             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
 **Total: 23 Public Competitive Contests, 6 Highs, 14 Mediums, 19 Lows**
 
