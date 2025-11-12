@@ -67,6 +67,8 @@
 |Mondrian Wallet|09.05.2024 | 1 High, 3 Mediums        |
 |              |**Total:** |**13 Contests, 27 Highs, 11 Mediums, 12 Lows**|
 
+**Total Public Findings: 33 Highs, 25 Mediums, 31 Lows**
+
 # Judging and Development
 
 ## CodeHawks Community Judging Competitions:
@@ -109,3 +111,7 @@
 |Project Name     |Programming Language       |Link                    |
 |:------------:|:---------:|:-------------------------:|
 |TicketMarketplace Rust Project | Rust| https://github.com/BubeAudit/TicketMarketplace-Rust-Project |
+|Rust Note Program | Rust | https://github.com/BubeAudit/Rust-Note-program |
+|Rust Task Tracker | Rust | https://github.com/BubeAudit/Rust-Task-Tracker |
+|Time Locked Vault | Rust | https://github.com/BubeAudit/Time-Locked-Vault |
+|Rust Voting Program | Rust | https://github.com/BubeAudit/Rust-Voting-program |
