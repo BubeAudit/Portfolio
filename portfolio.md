@@ -67,7 +67,7 @@
 |Mondrian Wallet|09.05.2024 | 1 High, 3 Mediums        |
 |              |**Total:** |**13 Contests, 27 Highs, 11 Mediums, 12 Lows**|
 
-**Total Public Findings: 33 Highs, 25 Mediums, 31 Lows**
+## Total Public Findings: 33 Highs, 25 Mediums, 31 Lows
 
 # Judging and Development
 
