@@ -44,10 +44,10 @@
 |AI Arena     |09.02.2024 |QA report, Grade: B|
 |DittoETH     |15.03.2024 |[1 Medium](https://github.com/code-423n4/2024-03-dittoeth-findings/issues/221) (Selected for report), QA Report, Grade:B |
 |Nudge.xyz    |17.03.2025 | [1 Low](https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13)
-|             |**Total:** |**7 Contests, 1 High, 1 Medium, 6 Lows** |
+|             |**Total:** |**7 Contests, 1 High, 1 Medium, 7 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
-**Total: 23 Public Competitive Contests, 6 Highs, 14 Mediums, 19 Lows**
+**Total: 23 Public Competitive Contests, 6 Highs, 14 Mediums, 20 Lows**
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
