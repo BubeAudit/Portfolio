@@ -107,7 +107,7 @@
 
 **Note**: These protocols are intentionally implemented with vulnerabilities. They are intended to be First Flights at CodeHawks.
 
-## Personal Projects:
+## Rust Projects:
 |Project Name     |Programming Language       |Link                    |
 |:------------:|:---------:|:-------------------------:|
 |TicketMarketplace Rust Project | Rust| https://github.com/BubeAudit/TicketMarketplace-Rust-Project |
