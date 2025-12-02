@@ -115,3 +115,6 @@
 |Rust Task Tracker | Rust | https://github.com/BubeAudit/Rust-Task-Tracker |
 |Time Locked Vault | Rust | https://github.com/BubeAudit/Time-Locked-Vault |
 |Rust Voting Program | Rust | https://github.com/BubeAudit/Rust-Voting-program |
+|SolanaFeed | Rust |                                                           |
+|NFT-Marketplace | Rust |                                                      |
+|Escrow-Marketplace | Rust |                                                   |
