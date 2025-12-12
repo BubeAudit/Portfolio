@@ -4,6 +4,12 @@
    
 # Findings from Competitive Audits
 
+## Immunefi Audits:
+|Contest	    |Date	      |Results            |
+|:-----------:|:---------:|:-----------------:|
+|Firelight | 17.11.2025 |🥈 1 Low, 2nd place    |
+|          |Link to Immunefi Profile: |https://immunefi.com/profile/EagleEye/|
+
 ## Sherlock Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
@@ -43,11 +49,12 @@
 |NextGen      |30.10.2023 |1 High             |
 |AI Arena     |09.02.2024 |QA report, Grade: B|
 |DittoETH     |15.03.2024 |[1 Medium](https://github.com/code-423n4/2024-03-dittoeth-findings/issues/221) (Selected for report), QA Report, Grade:B |
-|Nudge.xyz    |17.03.2025 | [1 Low](https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13)
-|             |**Total:** |**7 Contests, 1 High, 1 Medium, 7 Lows** |
+|Nudge.xyz    |17.03.2025 | [1 Low](https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13) |
+|Sequence: Transaction Rails | 17.11.2025 | 3 Lows |
+|             |**Total:** |**7 Contests, 1 High, 1 Medium, 10 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
-**Total: 23 Public Competitive Contests, 6 Highs, 14 Mediums, 20 Lows**
+**Total: 25 Public Competitive Contests, 6 Highs, 14 Mediums, 24 Lows**
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
@@ -67,7 +74,7 @@
 |Mondrian Wallet|09.05.2024 | 1 High, 3 Mediums        |
 |              |**Total:** |**13 Contests, 27 Highs, 11 Mediums, 12 Lows**|
 
-## Total Public Findings: 33 Highs, 25 Mediums, 31 Lows
+## Total Public Findings: 33 Highs, 25 Mediums, 36 Lows
 
 # Judging and Development
 
@@ -98,6 +105,7 @@
 |First Flight #40: Weather Witness |
 |First Flight #46: Secret Vault on Aptos |
 |First Flight Aptos Pizza Drop |
+|First Flight BriVault |
 
 ## CodeHawks First Flights Development:
 |Contest	     |Programming Language       |Link                    |               
