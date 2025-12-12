@@ -83,9 +83,7 @@
 |:------------:|:---------:|:-------------------------:|
 |Moonwell      |8          | https://codehawks.cyfrin.io/c/2024-03-Moonwell/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard|
 |Beanstalk Part 3|7        | https://codehawks.cyfrin.io/c/2024-05-Beanstalk-3/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard       |
-|Beanstalk: The Finale |:
-
-🥈 2 | https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard  |
+|Beanstalk The Finale |🥈 2 | https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard|
 |TempleGold   |5          | https://codehawks.cyfrin.io/c/2024-07-templegold/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard |
 |Zaros Part 1 |3          | https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard                    |
 |Tadle        |3          | https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard                    |
