@@ -10,6 +10,12 @@
 |Firelight | 17.11.2025 |🥈 1 Low, 2nd place    |
 |          |Link to Immunefi Profile: |https://immunefi.com/profile/EagleEye/|
 
+## DualGuard Audits:
+|Contest	    |Date	      |Results            |
+|:-----------:|:---------:|:-----------------:|
+|Alignerz     | 17.11.2025 |4 Highs, 1 Low    |
+
+
 ## Sherlock Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
@@ -54,7 +60,7 @@
 |             |**Total:** |**7 Contests, 1 High, 1 Medium, 10 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
-**Total: 25 Public Competitive Contests, 6 Highs, 14 Mediums, 24 Lows**
+**Total: 26 Public Competitive Contests, 10 Highs, 14 Mediums, 25 Lows**
 
 ## CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
@@ -74,7 +80,7 @@
 |Mondrian Wallet|09.05.2024 | 1 High, 3 Mediums        |
 |              |**Total:** |**13 Contests, 27 Highs, 11 Mediums, 12 Lows**|
 
-## Total Public Findings: 33 Highs, 25 Mediums, 36 Lows
+## Total Public Findings: 37 Highs, 25 Mediums, 37 Lows
 
 # Judging and Development
 
