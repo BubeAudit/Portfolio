@@ -1,8 +1,16 @@
-# Table of contents
+# Smart Contract Security Portfolio – Audits, Judging & Development
+
+# 👋 Overview
+
+I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment.
+
+This portfolio highlights my public competitive audit results, judging experience, and development work.
+
+# 📚 Table of contents
  - ## Findings from Competitive Audits
  - ## Judging and Development
    
-# Findings from Competitive Audits
+# 🔍 Findings from Competitive Audits
 
 ## Immunefi Audits:
 |Contest	    |Date	      |Results            |
@@ -10,13 +18,13 @@
 |Firelight | 17.11.2025 |🥈 1 Low, 2nd place    |
 |          |Link to Immunefi Profile: |https://immunefi.com/profile/EagleEye/|
 
-## DualGuard Audits:
+## 🛡️ DualGuard Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
 |Alignerz     | 17.11.2025 |4 Highs, 1 Low    |
 
 
-## Sherlock Audits:
+## 🕵️ Sherlock Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
 |Ethos Network Financial Contracts|29.11.2024 |[1 High](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/387)|
@@ -28,7 +36,7 @@
 |             |**Total:** |**5 Contests, 3 Highs, 5 Mediums**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
-## CodeHawks Audits:
+## 🦅 CodeHawks Audits:
 |Contest	    |Date	      |Results                     |
 |:-----------:|:---------:|:--------------------------:|
 |Beedle       |24.07.2023 | 1 Low                      |
@@ -62,7 +70,7 @@
 
 **Total: 26 Public Competitive Contests, 10 Highs, 14 Mediums, 25 Lows**
 
-## CodeHawks First Flights Audits:
+## 🦅 CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
 |:------------:|:---------:|:-------------------------:|
 |PasswordStore |18.10.2023 | 2 Highs                   |
@@ -80,11 +88,16 @@
 |Mondrian Wallet|09.05.2024 | 1 High, 3 Mediums        |
 |              |**Total:** |**13 Contests, 27 Highs, 11 Mediums, 12 Lows**|
 
-## Total Public Findings: 37 Highs, 25 Mediums, 37 Lows
+## 📊 Aggregate Results
 
-# Judging and Development
+**39 Public Competitive Contests**
 
-## CodeHawks Community Judging Competitions:
+**Total Findings: 37 Highs · 25 Mediums · 37 Lows**
+
+# ⚖️ Judging and Development
+
+## 🏆 CodeHawks Community Judging Competitions:
+Consistent top‑tier rankings evaluating submissions for severity, clarity, and correctness.
 |Contest	     |Rank       |Leaderboard                |               
 |:------------:|:---------:|:-------------------------:|
 |Moonwell      |8          | https://codehawks.cyfrin.io/c/2024-03-Moonwell/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard|
@@ -95,7 +108,8 @@
 |Tadle        |🥉 3       | https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=judging&page=1&sc=reward&sj=reward&t=leaderboard                    |
 |🥇 **Rank 1** in the Judging leaderboard |Link to the Judging leaderboard |https://codehawks.cyfrin.io/leaderboard?page=1&r=all-time&sc=reward&sj=reward&t=judging|
 
-## Lead Judge at CodeHawks for the following contests:
+## 👨‍⚖️ Lead Judge at CodeHawks for the following contests:
+Served as Lead Judge on numerous CodeHawks and First Flights contests, overseeing issue validation, severity calibration, and final reports.
 |Contest	                   |
 |:--------------------------:|
 |First Flight #13: Baba Marta|
@@ -113,22 +127,21 @@
 |First Flight Aptos Pizza Drop |
 |First Flight BriVault |
 
-## CodeHawks First Flights Development:
+## 💻 CodeHawks First Flights Development:
+Designed intentionally vulnerable protocols for educational and competitive auditing.
 |Contest	     |Programming Language       |Link                    |               
 |:------------:|:---------:|:-------------------------:|
 |First Flight #13: Baba Marta |Solidity | https://codehawks.cyfrin.io/c/2024-04-Baba-Marta|
 |First Flight #26: Starknet Auction |CairoLang |https://codehawks.cyfrin.io/c/2024-10-starknet-auction|
 
-**Note**: These protocols are intentionally implemented with vulnerabilities. They are intended to be First Flights at CodeHawks.
-
-## Rust Projects:
-|Project Name     |Programming Language       |Link                    |
-|:------------:|:---------:|:-------------------------:|
-|TicketMarketplace Rust Project | Rust| https://github.com/BubeAudit/TicketMarketplace-Rust-Project |
-|Rust Note Program | Rust | https://github.com/BubeAudit/Rust-Note-program |
-|Rust Task Tracker | Rust | https://github.com/BubeAudit/Rust-Task-Tracker |
-|Time Locked Vault | Rust | https://github.com/BubeAudit/Time-Locked-Vault |
-|Rust Voting Program | Rust | https://github.com/BubeAudit/Rust-Voting-program |
-|SolanaFeed | Rust |                                                           |
-|NFT-Marketplace | Rust |                                                      |
-|Escrow-Marketplace | Rust |                                                   |
+## 🦀 Rust Projects:
+|Project Name     |Link                    |
+|:------------:|:-------------------------:|
+|TicketMarketplace Rust Project | https://github.com/BubeAudit/TicketMarketplace-Rust-Project |
+|Rust Note Program | https://github.com/BubeAudit/Rust-Note-program |
+|Rust Task Tracker | https://github.com/BubeAudit/Rust-Task-Tracker |
+|Time Locked Vault | https://github.com/BubeAudit/Time-Locked-Vault |
+|Rust Voting Program | https://github.com/BubeAudit/Rust-Voting-program |
+|SolanaFeed |                                                           |
+|NFT-Marketplace |                                                      |
+|Escrow-Marketplace  |                                                   |
