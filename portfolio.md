@@ -15,7 +15,8 @@ This portfolio highlights my public competitive audit results, judging experienc
 ## Immunefi Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
-|Firelight | 17.11.2025 |🥈 1 Low, 2nd place    |
+|Firelight | 17.11.2025 |🥈 1 Low, 2nd place  |
+|Alchemix  | 04.11.2025 | 2 Lows              | 
 |          |Link to Immunefi Profile: |https://immunefi.com/profile/EagleEye/|
 
 ## 🛡️ DualGuard Audits:
@@ -68,7 +69,7 @@ This portfolio highlights my public competitive audit results, judging experienc
 |             |**Total:** |**7 Contests, 1 High, 1 Medium, 10 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
-**Total: 26 Public Competitive Contests, 10 Highs, 14 Mediums, 25 Lows**
+**Total: 27 Public Competitive Contests, 10 Highs, 14 Mediums, 27 Lows**
 
 ## 🦅 CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
@@ -90,9 +91,9 @@ This portfolio highlights my public competitive audit results, judging experienc
 
 ## 📊 Aggregate Results
 
-**39 Public Competitive Contests**
+**40 Public Competitive Contests**
 
-**Total Findings: 37 Highs · 25 Mediums · 37 Lows**
+**Total Findings: 37 Highs · 25 Mediums · 39 Lows**
 
 # ⚖️ Judging and Development
 
