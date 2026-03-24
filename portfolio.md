@@ -2,14 +2,16 @@
 
 # 👋 Overview
 
-I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment.
+I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment. I have experience with Solidity, Rust, Move and Cairo-based protocols.
 
-This portfolio highlights my public competitive audit results, judging experience, and development work.
+This portfolio highlights my public competitive audit results, private engagements, judging experience, and development work.
 
-# 📚 Table of contents
- - ## Findings from Competitive Audits
- - ## Judging and Development
-   
+## 📊 Aggregate Results
+
+**53 Public Competitive Contests**
+
+**Total Findings: 3 Criticals, 43 Highs · 27 Mediums · 53 Lows**
+
 # 🔍 Findings from Competitive Audits
 
 ## Immunefi Audits:
@@ -34,7 +36,11 @@ This portfolio highlights my public competitive audit results, judging experienc
 |DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
 |Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue) |
 |Malda | 24.07.2025 | 3 Mediums |
-|             |**Total:** |**5 Contests, 3 Highs, 5 Mediums**        |
+|Aave V4 | 01.2026  | The contest ended without valid H/M issues |
+|Flying Tulip | 01.2026 | The contest ended without valid H/M issues |
+| Hotstuff    | 01.2026 | The contest ended without valid H/M issues |
+| OpenCover Insured Vaults | 01.2026 | The contest ended without valid H/M issues |
+|             |**Total:** |**10 Contests, 3 Highs, 5 Mediums**        |
 |             |Link to Sherlock Profile: | https://audits.sherlock.xyz/watson/bube |
 
 ## 🦅 CodeHawks Audits:
@@ -66,10 +72,13 @@ This portfolio highlights my public competitive audit results, judging experienc
 |DittoETH     |15.03.2024 |[1 Medium](https://github.com/code-423n4/2024-03-dittoeth-findings/issues/221) (Selected for report), QA Report, Grade:B |
 |Nudge.xyz    |17.03.2025 | [1 Low](https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13) |
 |Sequence: Transaction Rails | 17.11.2025 | 3 Lows |
-|             |**Total:** |**7 Contests, 1 High, 1 Medium, 10 Lows** |
+|Garden       | 11.2025   | QA report, Grade: B |
+|Merkl        | 11.2025   | QA report, Grade: B |
+|Brix Money   | 12.2025   | QA report, Grade: B |
+|             |**Total:** |**10 Contests, 1 High, 1 Medium, 20 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
-**Total: 27 Public Competitive Contests, 10 Highs, 14 Mediums, 27 Lows**
+**Total: 35 Public Competitive Contests, 10 Highs, 14 Mediums, 37 Lows**
 
 ## 🦅 CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
@@ -89,11 +98,25 @@ This portfolio highlights my public competitive audit results, judging experienc
 |Mondrian Wallet|09.05.2024 | 1 High, 3 Mediums        |
 |              |**Total:** |**13 Contests, 27 Highs, 11 Mediums, 12 Lows**|
 
-## 📊 Aggregate Results
+## Radcipher's Competitions:
+|Protocol	     |Results       |Rank                    |               
+|:------------:|:---------:|:-------------------------:|
+|DAOChallenge |1 Critical, 1 High | 2nd place 🥈       |
+|PresaleEngine |1 Critical, 1 High, 1 Low | 2nd place 🥈 |
+|TimelockVault |1 High, 1 Medium, 1 Low | 3rd place 🥉 |
+|SimpleStaking |1 Critical, 2 Highs, 1 Medium, 1 Low | 3rd place 🥉      |
+|EscrowMarket |1 Critical, 2 Highs, 1 Low | 3rd place 🥉      |
+|              |**Total:** |**5 Contests, 3 Criticals, 7 Highs, 2 Mediums, 4 Lows**|
 
-**40 Public Competitive Contests**
+# Private Audits
+|Audit Firm    |Protocol	  |Language|              
+|:------------:|:---------:|:-------|
+|Radcipher     |Arkhive    | Rust   | 
 
-**Total Findings: 37 Highs · 25 Mediums · 39 Lows**
+# Solo Private Audits
+|Protocol	     |Language   |              
+|:------------:|:---------:|
+|Need4Audit    |Solidity   |
 
 # ⚖️ Judging and Development
 
