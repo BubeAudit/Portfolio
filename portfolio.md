@@ -2,15 +2,9 @@
 
 # 👋 Overview
 
-I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment. I have experience with Solidity, Rust, Move and Cairo-based protocols.
+I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment. I have experience with **Solidity and Rust**-based protocols as security researcher and judge. Also, I have participated in more than 50 public competitive contests, identifying **over 60 security issues** with **top 3** and multiple **top 10** placements.
 
 This portfolio highlights my public competitive audit results, private engagements, judging experience, and development work.
-
-## 📊 Aggregate Results
-
-**53 Public Competitive Contests**
-
-**Total Findings: 3 Criticals, 43 Highs · 27 Mediums · 53 Lows**
 
 # 🔍 Findings from Competitive Audits
 
@@ -77,8 +71,6 @@ This portfolio highlights my public competitive audit results, private engagemen
 |Brix Money   | 12.2025   | QA report, Grade: B |
 |             |**Total:** |**10 Contests, 1 High, 1 Medium, 20 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
-
-**Total: 35 Public Competitive Contests, 10 Highs, 14 Mediums, 37 Lows**
 
 ## 🦅 CodeHawks First Flights Audits:
 |Contest	     |Date       |Results                    |               
