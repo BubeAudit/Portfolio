@@ -26,7 +26,7 @@ This portfolio highlights my public competitive audit results, private engagemen
 |:-----------:|:---------:|:-----------------:|
 |Ethos Network Financial Contracts|29.11.2024 |[1 High](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/387)|
 |Plaza Finance|14.01.2025 |[1 High](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/787)             |
-|Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)          |
+|Crestal Network| 11.03.2025| [1 High](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/530)  🏅 12th |
 |DODO Cross-Chain DEX | 09.06.2025| [1 Medium](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/614) |
 |Notional Exponent| 02.07.2025 | [1 Medium](https://audits.sherlock.xyz/contests/1001/voting/652) (Selected for main issue) |
 |Malda | 24.07.2025 | 3 Mediums |
@@ -43,14 +43,14 @@ This portfolio highlights my public competitive audit results, private engagemen
 |Beedle       |24.07.2023 | 1 Low                      |
 |Sparkn       |21.08.2023 | [1 Low](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Sparkn-.md)                   |
 |Ditto        |08.09.2023 | [1 Low](https://github.com/BubeAudit/Portfolio/blob/main/Findings-DittoETH.md)                  |
-|The Standard |27.12.2023 | [1 Medium, 2 Lows (1 Unique)](https://github.com/BubeAudit/Portfolio/blob/main/Findings-The-Standard.md)|
+|The Standard |27.12.2023 | [1 Medium, 2 Lows (1 Unique)](https://github.com/BubeAudit/Portfolio/blob/main/Findings-The-Standard.md) 🏅 8th|
 |MorpheusAI   |30.01.2024 | [1 Low](https://github.com/BubeAudit/Portfolio/blob/main/Findings-MorpheusAI.md)                      |
-|Beanstalk Part 1 |26.02.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Beanstalk-Part-1.md) (Selected for report)|
-|Sablier      |10.05.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Sablier.md) |
+|Beanstalk Part 1 |26.02.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Beanstalk-Part-1.md) (Selected for report) 🏅 7th|
+|Sablier      |10.05.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Sablier.md) 🏅 15th|
 |Beanstalk The Finale |30.05.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Beanstalk_-The-Finale.md) |
 |Zaros Part 1 |17.07.2024 | [1 High, 1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Zaros-Part-1.md#M-01)|
 |Tadle        |05.08.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Tadle.md#L-02)|
-|Liquid Staking |30.09.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Liquid-Staking.md)  |
+|Liquid Staking |30.09.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Liquid-Staking.md) 🏅 14th |
 |Zaros Part 2 |20.01.2025 | [1 High](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/612), [1 Medium](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/138), 3 Lows |
 |             |**Total:** |**12 Contests, 2 Highs, 8 Mediums, 13 Lows**        |
 |             |Link to CodeHawks Profile: | https://profiles.cyfrin.io/u/bube |
@@ -60,10 +60,10 @@ This portfolio highlights my public competitive audit results, private engagemen
 |:-----------:|:---------:|:-----------------:|
 |veRWA        |07.08.2023 |QA report, Grade: B|
 |Ondo Finance |01.09.2023 |Analysis, Grade: B |
-|Brahma       |13.10.2023 |Analysis, Grade: A |
+|Brahma       |13.10.2023 |Analysis, Grade: A, 🏅 11th|
 |NextGen      |30.10.2023 |1 High             |
 |AI Arena     |09.02.2024 |QA report, Grade: B|
-|DittoETH     |15.03.2024 |[1 Medium](https://github.com/code-423n4/2024-03-dittoeth-findings/issues/221) (Selected for report), QA Report, Grade:B |
+|DittoETH     |15.03.2024 |[1 Medium](https://github.com/code-423n4/2024-03-dittoeth-findings/issues/221) (Selected for report), QA Report, Grade:B 🏅 10th|
 |Nudge.xyz    |17.03.2025 | [1 Low](https://code4rena.com/audits/2025-03-nudgexyz/submissions/F-13) |
 |Sequence: Transaction Rails | 17.11.2025 | 3 Lows |
 |Garden       | 11.2025   | QA report, Grade: B |
