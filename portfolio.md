@@ -2,9 +2,19 @@
 
 # 👋 Overview
 
-I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment. I have experience with **Solidity and Rust**-based protocols as security researcher and judge. Also, I have participated in more than 50 public competitive contests, identifying **over 60 security issues** with **top 3** and multiple **top 10** placements.
+I’m **Bube**, a blockchain security researcher with deep experience across top competitive audit platforms including **Sherlock, CodeHawks, Code4rena, Immunefi and DualGuard**. I specialize in securing **DeFi protocols, cross-chain systems, lending & borrowing platforms, vaults, DEXs (Uniswap, Curve), bridges, NFT marketplaces and gaming ecosystems, as well as staking and vesting contracts**. My work focuses on identifying high-impact vulnerabilities, producing well written and detailed security reports, and contributing as both a **security researcher and lead judge** in competitive audits, helping protocols strengthen their security posture from design to deployment. I have experience with **Solidity and Rust**-based protocols as security researcher and judge. Also, I have participated in more than 50 public competitive contests, identifying **over 80 security issues** with **top 3** and multiple **top 10** placements.
 
-This portfolio highlights my public competitive audit results, private engagements, judging experience, and development work.
+This portfolio highlights my private engagements, public competitive audit results, judging experience and development work.
+
+# Private Engagements
+|Provider    |Protocol	  |Language| Date |           
+|:----------:|:----------:|:-------|:-----|
+|ZippelLabs  | ZP1        |Rust    |December 2025 |
+|Radcipher   |Arkhive     | Rust   |March 2026 |
+|Need4Audit  |Need4Audit  |Solidity|March 2026 |
+|Shinsekailabs |Shingo    |Rust    |May 2026   |
+|Rektoff     |MetaLend    |Rust    |May 2026   |
+
 
 # 🔍 Findings from Competitive Audits
 
@@ -69,7 +79,9 @@ This portfolio highlights my public competitive audit results, private engagemen
 |Garden       | 11.2025   | QA report, Grade: B |
 |Merkl        | 11.2025   | QA report, Grade: B |
 |Brix Money   | 12.2025   | QA report, Grade: B |
-|             |**Total:** |**10 Contests, 1 High, 1 Medium, 20 Lows** |
+|Jupiter Lend |02.2026    | 1 Low               |
+|Intuition    |03.2026    | 2 Lows              |
+|             |**Total:** |**13 Contests, 1 High, 1 Medium, 23 Lows** |
 |             |Link to Code4rena Profile: | https://code4rena.com/@Bube |
 
 ## 🦅 CodeHawks First Flights Audits:
@@ -98,17 +110,14 @@ This portfolio highlights my public competitive audit results, private engagemen
 |TimelockVault |1 High, 1 Medium, 1 Low | 3rd place 🥉 |
 |SimpleStaking |1 Critical, 2 Highs, 1 Medium, 1 Low | 3rd place 🥉      |
 |EscrowMarket |1 Critical, 2 Highs, 1 Low | 3rd place 🥉      |
-|              |**Total:** |**5 Contests, 3 Criticals, 7 Highs, 2 Mediums, 4 Lows**|
-
-# Private Audits
-|Audit Firm    |Protocol	  |Language|              
-|:------------:|:---------:|:-------|
-|Radcipher     |Arkhive    | Rust   | 
-
-# Solo Private Audits
-|Protocol	     |Language   |              
-|:------------:|:---------:|
-|Need4Audit    |Solidity   |
+|Broken Stream Ledger |1 Critical, 2 Highs, 3 Lows |  3rd place 🥉 |
+|Deadline Drift Crowdfund | 1 High, 1 Medium       | 5th place     |
+|Replay Voucher Sale      | 1 Critical, 1 High, 1 Medium | 1st place 🥇|
+|Splitter Stress Test     | 1 High, 1 Medium       | 6th place |
+|Epoch Mirage Rewards     | 1 High                 | 3rd place 🥉 |
+|Oracle Drift Lending     | 3 Criticals, 1 High, 1 Low | 1st place 🥇 |
+|FlashVote Governance     | 1 High, 2 Mediums          | 4th place    |
+|**Rank 1 in All Time Leaderboard** |**Total:** |**12 Contests, 8 Criticals, 15 Highs, 7 Mediums, 8 Lows**|
 
 # ⚖️ Judging and Development
 
