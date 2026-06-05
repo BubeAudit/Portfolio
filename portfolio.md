@@ -30,6 +30,12 @@ This portfolio highlights my private engagements, public competitive audit resul
 |:-----------:|:---------:|:-----------------:|
 |Alignerz     | 17.11.2025 |4 Highs, 1 Low    |
 
+## Cantina Audits:
+|Contest	    |Date	      |Results            |
+|:-----------:|:---------:|:-----------------:|
+|Revert Finance | 04.2026 |1 High, 1 Medium   |
+
+
 
 ## 🕵️ Sherlock Audits:
 |Contest	    |Date	      |Results            |
