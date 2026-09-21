@@ -14,6 +14,7 @@ This portfolio highlights my private engagements, public competitive audit resul
 |Need4Audit  |Need4Audit  |Solidity|March 2026 |
 |Shinsekailabs |Shingo    |Rust    |May 2026   |
 |Rektoff     |MetaLend    |Rust    |May 2026   |
+|Shieldify   |Up          |Solidity|July 2026  |
 
 
 # 🔍 Findings from Competitive Audits
@@ -68,7 +69,8 @@ This portfolio highlights my private engagements, public competitive audit resul
 |Tadle        |05.08.2024 | [1 Medium, 2 Lows](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Tadle.md#L-02)|
 |Liquid Staking |30.09.2024 | [1 Medium](https://github.com/BubeAudit/Portfolio/blob/main/Findings-Liquid-Staking.md) 🏅 14th |
 |Zaros Part 2 |20.01.2025 | [1 High](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/612), [1 Medium](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/138), 3 Lows |
-|             |**Total:** |**12 Contests, 2 Highs, 8 Mediums, 13 Lows**        |
+|BattleChain Confidence Pools| 07.2026 | 1 Low |
+|             |**Total:** |**13 Contests, 2 Highs, 8 Mediums, 14 Lows**        |
 |             |Link to CodeHawks Profile: | https://profiles.cyfrin.io/u/bube |
 
 ## Code4rena Audits:
