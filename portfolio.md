@@ -7,14 +7,15 @@ I’m **Bube**, a blockchain security researcher with deep experience across top
 This portfolio highlights my private engagements, public competitive audit results, judging experience and development work.
 
 # Private Engagements
-|Provider    |Protocol	  |Language| Date |           
-|:----------:|:----------:|:-------|:-----|
-|ZippelLabs  | ZP1        |Rust    |December 2025 |
-|Radcipher   |Arkhive     | Rust   |March 2026 |
-|Need4Audit  |Need4Audit  |Solidity|March 2026 |
-|Shinsekailabs |Shingo    |Rust    |May 2026   |
-|Rektoff     |MetaLend    |Rust    |May 2026   |
-|Shieldify   |Up          |Solidity|July 2026  |
+|Provider    |Protocol	  |Language| Date |Report |          
+|:----------:|:----------:|:-------|:-----|:------|
+|ZippelLabs  | ZP1        |Rust    |December 2025 | Soon |
+|Radcipher   |Arkhive     | Rust   |March 2026 | Soon    |
+|Need4Audit  |Need4Audit  |Solidity|March 2026 | Soon    |
+|Shinsekailabs |Shingo    |Rust    |May 2026   | Soon    |
+|Rektoff     |MetaLend    |Rust    |May 2026   | Soon    |
+|Shieldify   |Up          |Solidity|July 2026  | Soon    |
+|LordSpot    |LordSpot    |Rust    |September 2026 | Soon|
 
 
 # 🔍 Findings from Competitive Audits
