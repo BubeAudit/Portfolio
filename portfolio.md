@@ -15,7 +15,7 @@ This portfolio highlights my private engagements, public competitive audit resul
 |Shinsekailabs |Shingo    |Rust    |May 2026   | Soon    |
 |Rektoff     |MetaLend    |Rust    |May 2026   | Soon    |
 |Shieldify   |Up          |Solidity|July 2026  | Soon    |
-|LordSpot    |LordSpot    |Rust    |September 2026 | Soon|
+|LordsPot    |LordsPot    |Rust    |September 2026 | Soon|
 
 
 # 🔍 Findings from Competitive Audits
