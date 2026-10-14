@@ -9,15 +9,15 @@ This portfolio highlights my private engagements, public competitive audit resul
 # Private Engagements
 |Provider    |Protocol	  |Language| Date |Report |          
 |:----------:|:----------:|:-------|:-----|:------|
-|ZippelLabs  | ZP1        |Rust    |December 2025 | Soon |
-|Radcipher   |Arkhive     | Rust   |March 2026 | Soon    |
-|Need4Audit  |Need4Audit  |Solidity|March 2026 | Soon    |
-|Shinsekailabs |Shingo    |Rust    |May 2026   | Soon    |
-|Rektoff     |MetaLend    |Rust    |May 2026   | Soon    |
-|Shieldify   |Up          |Solidity|July 2026  | Soon    |
-|LordsPot    |LordsPot    |Rust    |September 2026 | Soon|
+|Sherlock    |Private     |Rust    |October 2026   | Private|
 |Clawbada    |Clawbada    |Solidity|October 2026   | Soon|
-
+|LordsPot    |LordsPot    |Rust    |September 2026 | Soon|
+|Shieldify   |Up          |Solidity|July 2026  | Soon    |
+|Rektoff     |MetaLend    |Rust    |May 2026   | Private |
+|Shinsekailabs |Shingo    |Rust    |May 2026   | Soon    |
+|Need4Audit  |Need4Audit  |Solidity|March 2026 | Soon    |
+|Radcipher   |Arkhive     |Rust    |March 2026 | Soon    |
+|ZippelLabs  | ZP1        |Rust    |December 2025 | Soon |
 
 # 🔍 Findings from Competitive Audits
 
