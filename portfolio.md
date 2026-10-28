@@ -9,6 +9,7 @@ This portfolio highlights my private engagements, public competitive audit resul
 # Private Engagements
 |Provider    |Protocol	  |Language| Date |Report |          
 |:----------:|:----------:|:-------|:-----|:------|
+|DropChad    |DropChad    |Rust    |October 2026   |Soon |
 |Sherlock    |Private     |Rust    |October 2026   | Private|
 |Clawbada    |Clawbada    |Solidity|October 2026   | Soon|
 |LordsPot    |LordsPot    |Rust    |September 2026 | Soon|
@@ -28,6 +29,11 @@ This portfolio highlights my private engagements, public competitive audit resul
 |Alchemix  | 04.11.2025 | 2 Lows              | 
 |          |Link to Immunefi Profile: |https://immunefi.com/profile/EagleEye/|
 
+## 🕵️ Sherlock Audit Engine:
+|Contest	    |Date	      |Results            |
+|:-----------:|:---------:|:-----------------:|
+|Aero         |September 2026 | 1 High, 1 Medium |
+
 ## 🛡️ DualGuard Audits:
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
@@ -37,8 +43,6 @@ This portfolio highlights my private engagements, public competitive audit resul
 |Contest	    |Date	      |Results            |
 |:-----------:|:---------:|:-----------------:|
 |Revert Finance | 04.2026 |1 High, 1 Medium   |
-
-
 
 ## 🕵️ Sherlock Audits:
 |Contest	    |Date	      |Results            |
